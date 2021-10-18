@@ -1,11 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Header from './components/framework/Header';
 
 function App() {
   return (
-   <div>
-     teste
-   </div>
+   <React.Fragment>
+     <div>
+       <Header />
+     </div>
+
+   </React.Fragment>
   );
 }
 
