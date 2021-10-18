@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./framework/Header";
+import Footer from "./framework/Footer";
 import ConnectApi from "../api/ConnectApi";
 
 export const QuizSelect = () => {
@@ -12,6 +13,8 @@ console.log(dataState)
 return(
     <>
     <Header />
+
+    <Footer />
     </>
 )
 
