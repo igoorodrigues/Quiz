@@ -13,4 +13,4 @@
 # Frontend
 - Entre no diretório da pasta cd Quiz-React/core/ e execute o comando: npm start.
 
-- Para visualizar o quiz acesse http://localhost:3000/r/quiz1/ ou /quiz2/ , dependerá de quantos quizzes forem criados.
+- Para visualizar o quiz acesse http://localhost:3000.
